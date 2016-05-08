@@ -1,5 +1,5 @@
 # 2dads
-Two-dimensional advection-diffusion solver solver.
+Two-dimensional advection-diffusion solver.
 
 The code is designed to solve advection-diffusion problems with a potential formulation for quasi-two-dimensional flow dynamics
 on the GPU.
