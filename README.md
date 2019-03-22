@@ -1,3 +1,7 @@
+# This code was part of my master thesis and is not used anymore. If you are interested in fluid and plasma somulations I recommend BOUT++ and FELTOR
+https://boutproject.github.io/
+https://github.com/feltor-dev/feltor
+
 # 2dads
 Two-dimensional advection-diffusion solver.
 
